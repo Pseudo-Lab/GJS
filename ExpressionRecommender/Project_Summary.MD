@@ -47,7 +47,7 @@ ex) 면접 상황에서 흔히 저지르는 실수: 업무 관련 질문에 충�
 - 실시간 처리 : “AI 대화, 녹음, 분석” 순서가 있었는데, 이제 대화 중 실시간으로 답을 줍니다
 
 # 결과물!
-![UI](chat room interface.png)
+![UI](https://github.com/Pseudo-Lab/GJS/blob/main/ExpressionRecommender/chat%20room%20interface.png?raw=true)
 
 이런 형태로의 채팅방을 만들었습니다. 
 
